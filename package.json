@@ -1,0 +1,6 @@
+{
+  "name": "jeddah-relay",
+  "version": "1.0.0",
+  "scripts": { "start": "node jeddah-server.js" },
+  "dependencies": { "ws": "^8" }
+}
